@@ -1,0 +1,2 @@
+# mizancoin
+Practicing blockchain
